@@ -1,0 +1,8 @@
+
+
+.App{
+    background-image: url("https://github.com/NishantGangwar492/tusharsharma/blob/main/bg.jpeg?raw=true");
+    background-size: cover;
+    z-index: -1;
+    height: 100vh;
+}
